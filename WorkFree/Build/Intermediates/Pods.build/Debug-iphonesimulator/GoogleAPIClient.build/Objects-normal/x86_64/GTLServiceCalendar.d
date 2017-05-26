@@ -1,0 +1,52 @@
+dependencies: \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLServiceCalendar.m \
+  /Users/doki/git/WorkFree/WorkFree/Pods/Target\ Support\ Files/GoogleAPIClient/GoogleAPIClient-prefix.pch \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendar.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarConstants.h \
+  /Users/doki/git/WorkFree/WorkFree/Build/Intermediates/Pods.build/Debug-iphonesimulator/GoogleAPIClient.build/module.modulemap \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/GTLDefines.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarAcl.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Objects/GTLObject.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Utilities/GTLUtilities.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Objects/GTLDateTime.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarAclRule.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarCalendar.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarCalendarList.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarCalendarListEntry.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarChannel.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarColorDefinition.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarColors.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarError.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarEvent.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarEventAttachment.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarEventAttendee.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarEventDateTime.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarEventReminder.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarEvents.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarFreeBusyCalendar.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarFreeBusyGroup.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarFreeBusyRequestItem.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarFreeBusyResponse.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarNotification.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarSetting.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarSettings.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarTimePeriod.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLQueryCalendar.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Objects/GTLQuery.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Objects/GTLUploadParameters.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLServiceCalendar.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Objects/GTLService.h \
+  /Users/doki/git/WorkFree/WorkFree/Build/Intermediates/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GTMSessionFetcher/Source/GTMReadMonitorInputStream.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GTMSessionFetcher/Source/GTMMIMEDocument.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GTMSessionFetcher/Source/GTMGatherInputStream.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/Target\ Support\ Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Objects/GTLBatchQuery.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Objects/GTLBatchResult.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Objects/GTLErrorObject.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Utilities/GTLFramework.h \
+  /Users/doki/git/WorkFree/WorkFree/Pods/GoogleAPIClient/Source/Utilities/GTLJSONParser.h

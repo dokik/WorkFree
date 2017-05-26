@@ -1,0 +1,211 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "_JWT"
+provides-nominal:
+- "C9JWTDecode4_JWT"
+provides-member:
+- ["C9JWTDecode4_JWT", ""]
+provides-dynamic-lookup:
+- "expiresAt"
+- "expired"
+- "decode"
+- "header"
+- "body"
+- "signature"
+depends-top-level:
+- "NSObject"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "Date"
+- "_JWT"
+- "Bool"
+- !private "DecodedJWT"
+- "String"
+- "JWT"
+- !private "StringLiteralType"
+depends-member:
+- !private ["Ps9AnyObject", "DecodedJWT"]
+- !private ["Ps9AnyObject", "_JWT"]
+- ["Ps9AnyObject", "body"]
+- ["Ps9AnyObject", "decode"]
+- ["Ps9AnyObject", "expired"]
+- ["Ps9AnyObject", "expiresAt"]
+- ["Ps9AnyObject", "header"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "jwt"]
+- ["Ps9AnyObject", "signature"]
+- ["Ps9AnyObject", ""]
+- ["Sb", "deinit"]
+- !private ["Ps7CVarArg", "DecodedJWT"]
+- !private ["Ps7CVarArg", "_JWT"]
+- ["Ps7CVarArg", "body"]
+- ["Ps7CVarArg", "decode"]
+- ["Ps7CVarArg", "expired"]
+- ["Ps7CVarArg", "expiresAt"]
+- ["Ps7CVarArg", "header"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "jwt"]
+- ["Ps7CVarArg", "signature"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps28CustomDebugStringConvertible", "DecodedJWT"]
+- !private ["Ps28CustomDebugStringConvertible", "_JWT"]
+- ["Ps28CustomDebugStringConvertible", "body"]
+- ["Ps28CustomDebugStringConvertible", "decode"]
+- ["Ps28CustomDebugStringConvertible", "expired"]
+- ["Ps28CustomDebugStringConvertible", "expiresAt"]
+- ["Ps28CustomDebugStringConvertible", "header"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "jwt"]
+- ["Ps28CustomDebugStringConvertible", "signature"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "DecodedJWT"]
+- !private ["Ps23CustomStringConvertible", "_JWT"]
+- ["Ps23CustomStringConvertible", "body"]
+- ["Ps23CustomStringConvertible", "decode"]
+- ["Ps23CustomStringConvertible", "expired"]
+- ["Ps23CustomStringConvertible", "expiresAt"]
+- ["Ps23CustomStringConvertible", "header"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "jwt"]
+- ["Ps23CustomStringConvertible", "signature"]
+- ["Ps23CustomStringConvertible", ""]
+- ["V9JWTDecode10DecodedJWT", "deinit"]
+- !private ["V9JWTDecode10DecodedJWT", "init"]
+- ["Vs10Dictionary", "deinit"]
+- !private ["Ps9Equatable", "DecodedJWT"]
+- !private ["Ps9Equatable", "_JWT"]
+- ["Ps9Equatable", "body"]
+- ["Ps9Equatable", "decode"]
+- ["Ps9Equatable", "expired"]
+- ["Ps9Equatable", "expiresAt"]
+- ["Ps9Equatable", "header"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "jwt"]
+- ["Ps9Equatable", "signature"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "DecodedJWT"]
+- !private ["Ps8Hashable", "_JWT"]
+- ["Ps8Hashable", "body"]
+- ["Ps8Hashable", "decode"]
+- ["Ps8Hashable", "expired"]
+- ["Ps8Hashable", "expiresAt"]
+- ["Ps8Hashable", "header"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "jwt"]
+- ["Ps8Hashable", "signature"]
+- ["Ps8Hashable", ""]
+- !private ["P9JWTDecode3JWT", "body"]
+- ["P9JWTDecode3JWT", "deinit"]
+- !private ["P9JWTDecode3JWT", "expired"]
+- !private ["P9JWTDecode3JWT", "expiresAt"]
+- !private ["P9JWTDecode3JWT", "header"]
+- !private ["P9JWTDecode3JWT", "init"]
+- !private ["P9JWTDecode3JWT", "signature"]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "Date"]
+- !private ["CSo8NSObject", "DecodedJWT"]
+- ["CSo8NSObject", "JWT"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "_JWT"]
+- ["CSo8NSObject", "body"]
+- ["CSo8NSObject", "decode"]
+- ["CSo8NSObject", "deinit"]
+- ["CSo8NSObject", "expired"]
+- ["CSo8NSObject", "expiresAt"]
+- ["CSo8NSObject", "header"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "jwt"]
+- ["CSo8NSObject", "signature"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "DecodedJWT"]
+- !private ["PSo16NSObjectProtocol", "_JWT"]
+- ["PSo16NSObjectProtocol", "body"]
+- ["PSo16NSObjectProtocol", "decode"]
+- ["PSo16NSObjectProtocol", "expired"]
+- ["PSo16NSObjectProtocol", "expiresAt"]
+- ["PSo16NSObjectProtocol", "header"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "jwt"]
+- ["PSo16NSObjectProtocol", "signature"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Os5Never", "deinit"]
+- ["Sq", "deinit"]
+- ["Vs12StaticString", "deinit"]
+- !private ["Vs12StaticString", "init"]
+- ["SS", "deinit"]
+- ["Su", "deinit"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps9_Hashable", "DecodedJWT"]
+- !private ["Ps9_Hashable", "_JWT"]
+- ["Ps9_Hashable", "body"]
+- ["Ps9_Hashable", "decode"]
+- ["Ps9_Hashable", "expired"]
+- ["Ps9_Hashable", "expiresAt"]
+- ["Ps9_Hashable", "header"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "jwt"]
+- ["Ps9_Hashable", "signature"]
+- ["Ps9_Hashable", ""]
+- ["C9JWTDecode4_JWT", "Bool"]
+- ["C9JWTDecode4_JWT", "Date"]
+- !private ["C9JWTDecode4_JWT", "DecodedJWT"]
+- ["C9JWTDecode4_JWT", "JWT"]
+- ["C9JWTDecode4_JWT", "String"]
+- ["C9JWTDecode4_JWT", "_JWT"]
+- ["C9JWTDecode4_JWT", "body"]
+- ["C9JWTDecode4_JWT", "decode"]
+- ["C9JWTDecode4_JWT", "deinit"]
+- ["C9JWTDecode4_JWT", "expired"]
+- ["C9JWTDecode4_JWT", "expiresAt"]
+- ["C9JWTDecode4_JWT", "header"]
+- ["C9JWTDecode4_JWT", "init"]
+- ["C9JWTDecode4_JWT", "jwt"]
+- ["C9JWTDecode4_JWT", "signature"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "V9JWTDecode10DecodedJWT"
+- "Vs10Dictionary"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "P9JWTDecode3JWT"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Os5Never"
+- "Sq"
+- "Vs12StaticString"
+- "SS"
+- "Su"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps9_Hashable"
+- "C9JWTDecode4_JWT"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/doki/git/WorkFree/WorkFree/Pods/Target Support Files/JWTDecode/JWTDecode-umbrella.h"
+- "/Users/doki/git/WorkFree/WorkFree/Build/Intermediates/Pods.build/Debug-iphoneos/JWTDecode.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "0e86259fd87c4a4994c862e537ab1506"

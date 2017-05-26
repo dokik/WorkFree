@@ -1,0 +1,6 @@
+framework module Pods_WorkFree {
+  umbrella header "Pods-WorkFree-umbrella.h"
+
+  export *
+  module * { export * }
+}

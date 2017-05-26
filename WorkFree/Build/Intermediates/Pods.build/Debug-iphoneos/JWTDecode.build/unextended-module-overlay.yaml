@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/doki/git/WorkFree/WorkFree/Build/Products/Debug-iphoneos/JWTDecode/JWTDecode.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/doki/git/WorkFree/WorkFree/Build/Intermediates/Pods.build/Debug-iphoneos/JWTDecode.build/unextended-module.modulemap',
+    }]
+  }]
+}

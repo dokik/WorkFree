@@ -1,0 +1,33 @@
+PODS:
+  - AppAuth (0.4.2)
+  - GoogleAPIClient/Calendar (1.0.5):
+    - GoogleAPIClient/Core
+    - GTMSessionFetcher (~> 1.1)
+  - GoogleAPIClient/Core (1.0.5):
+    - GTMSessionFetcher (~> 1.1)
+  - GTMAppAuth (0.1.0):
+    - AppAuth (~> 0.4.2)
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.1.7):
+    - GTMSessionFetcher/Full (= 1.1.7)
+  - GTMSessionFetcher/Core (1.1.7)
+  - GTMSessionFetcher/Full (1.1.7):
+    - GTMSessionFetcher/Core (= 1.1.7)
+  - JWTDecode (2.0.0)
+
+DEPENDENCIES:
+  - GoogleAPIClient/Calendar (~> 1.0.2)
+  - GoogleAPIClient/Core (~> 1.0.2)
+  - GTMAppAuth
+  - JWTDecode
+
+SPEC CHECKSUMS:
+  AppAuth: 292151ac22065106b0bee6b80e3be29c95bda0fc
+  GoogleAPIClient: 4a6b0b807de8b1115a2835180b25dd93dc60f1ea
+  GTMAppAuth: 3f57495c702c78d68fa5cf1bced8519eec496963
+  GTMSessionFetcher: a1f8ed39e4fe21c68957daed472c7afbcdf29166
+  JWTDecode: 178e47e5d28d3abcff778bacced8342858cd6cb5
+
+PODFILE CHECKSUM: 035a0a7a8fc3f729981d56c41c1ae99ad1ee01bf
+
+COCOAPODS: 1.1.1

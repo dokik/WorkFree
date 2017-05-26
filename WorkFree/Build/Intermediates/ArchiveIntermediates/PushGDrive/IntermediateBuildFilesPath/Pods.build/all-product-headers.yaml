@@ -1,0 +1,563 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/AppAuth/AppAuth.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AppAuth-Swift.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/AppAuth/AppAuth.framework/Headers/AppAuth-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AppAuth-umbrella.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/Target Support Files/AppAuth/AppAuth-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "AppAuth.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/AppAuth.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDAuthState+IOS.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/iOS/OIDAuthState+IOS.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDAuthState.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDAuthState.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDAuthStateChangeDelegate.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDAuthStateChangeDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDAuthStateErrorDelegate.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDAuthStateErrorDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDAuthorizationRequest.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDAuthorizationRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDAuthorizationResponse.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDAuthorizationResponse.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDAuthorizationService+IOS.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/iOS/OIDAuthorizationService+IOS.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDAuthorizationService.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDAuthorizationService.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDAuthorizationUICoordinator.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDAuthorizationUICoordinator.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDAuthorizationUICoordinatorIOS.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/iOS/OIDAuthorizationUICoordinatorIOS.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDDefines.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDError.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDError.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDErrorUtilities.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDErrorUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDFieldMapping.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDFieldMapping.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDGrantTypes.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDGrantTypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDResponseTypes.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDResponseTypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDScopeUtilities.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDScopeUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDScopes.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDScopes.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDServiceConfiguration.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDServiceConfiguration.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDServiceDiscovery.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDServiceDiscovery.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDTokenRequest.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDTokenRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDTokenResponse.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDTokenResponse.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDTokenUtilities.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDTokenUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "OIDURLQueryComponent.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/AppAuth/Source/OIDURLQueryComponent.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/AppAuth/AppAuth.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/AppAuth.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/GTMAppAuth/GTMAppAuth.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMAppAuth-Swift.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/GTMAppAuth/GTMAppAuth.framework/Headers/GTMAppAuth-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMAppAuth-umbrella.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/Target Support Files/GTMAppAuth/GTMAppAuth-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMAppAuth.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GTMAppAuth/Source/GTMAppAuth.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMAppAuthFetcherAuthorization+Keychain.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization+Keychain.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMAppAuthFetcherAuthorization.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMKeychain.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GTMAppAuth/Source/GTMKeychain.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMOAuth2KeychainCompatibility.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GTMAppAuth/Source/GTMOAuth2KeychainCompatibility/GTMOAuth2KeychainCompatibility.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/GTMAppAuth/GTMAppAuth.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/GTMAppAuth.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMGatherInputStream.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GTMSessionFetcher/Source/GTMGatherInputStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMMIMEDocument.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GTMSessionFetcher/Source/GTMMIMEDocument.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMReadMonitorInputStream.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GTMSessionFetcher/Source/GTMReadMonitorInputStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-Swift.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-umbrella.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherLogging.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherService.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionUploadFetcher.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/GTMSessionFetcher.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/GoogleAPIClient/GoogleAPIClient.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTLBase64.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Utilities/GTLBase64.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLBatchQuery.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Objects/GTLBatchQuery.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLBatchResult.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Objects/GTLBatchResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendar.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendar.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarAcl.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarAcl.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarAclRule.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarAclRule.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarCalendar.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarCalendar.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarCalendarList.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarCalendarList.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarCalendarListEntry.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarCalendarListEntry.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarChannel.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarChannel.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarColorDefinition.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarColorDefinition.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarColors.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarColors.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarConstants.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarError.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarError.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarEvent.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarEvent.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarEventAttachment.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarEventAttachment.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarEventAttendee.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarEventAttendee.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarEventDateTime.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarEventDateTime.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarEventReminder.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarEventReminder.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarEvents.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarEvents.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarFreeBusyCalendar.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarFreeBusyCalendar.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarFreeBusyGroup.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarFreeBusyGroup.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarFreeBusyRequestItem.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarFreeBusyRequestItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarFreeBusyResponse.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarFreeBusyResponse.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarNotification.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarNotification.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarSetting.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarSetting.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarSettings.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarSettings.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLCalendarTimePeriod.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLCalendarTimePeriod.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLDateTime.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Objects/GTLDateTime.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLDefines.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/GTLDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLErrorObject.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Objects/GTLErrorObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLFramework.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Utilities/GTLFramework.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLJSONParser.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Utilities/GTLJSONParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLObject.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Objects/GTLObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLQuery.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Objects/GTLQuery.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLQueryCalendar.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLQueryCalendar.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRuntimeCommon.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Objects/GTLRuntimeCommon.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLService.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Objects/GTLService.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLServiceCalendar.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Services/Calendar/Generated/GTLServiceCalendar.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLTargetNamespace.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Utilities/GTLTargetNamespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLUploadParameters.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Objects/GTLUploadParameters.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLUtilities.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/GoogleAPIClient/Source/Utilities/GTLUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleAPIClient-Swift.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/GoogleAPIClient/GoogleAPIClient.framework/Headers/GoogleAPIClient-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleAPIClient-umbrella.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/Target Support Files/GoogleAPIClient/GoogleAPIClient-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/GoogleAPIClient/GoogleAPIClient.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/GoogleAPIClient.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/JWTDecode/JWTDecode.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "JWTDecode-Swift.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/JWTDecode/JWTDecode.framework/Headers/JWTDecode-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "JWTDecode-umbrella.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/Target Support Files/JWTDecode/JWTDecode-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/JWTDecode/JWTDecode.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/JWTDecode.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/Pods_PushGDrive.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-PushGDrive-umbrella.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Pods/Target Support Files/Pods-PushGDrive/Pods-PushGDrive-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_PushGDrive-Swift.h",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/Pods_PushGDrive.framework/Headers/Pods_PushGDrive-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/BuildProductsPath/Release-iphoneos/Pods_PushGDrive.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/doki/git/PushGDrive/PushGDrive/Build/Intermediates/ArchiveIntermediates/PushGDrive/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods-PushGDrive.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2979aab45ff066617f9b5afb77cb15c5"
+build_time: [545364075, 290042000]
+inputs:
+  "/Users/doki/git/PushGDrive/PushGDrive/PushGDrive/ViewController.swift": [9223372036854775807, 0]
+  "/Users/doki/git/PushGDrive/PushGDrive/PushGDrive/AppDelegate.swift": [9223372036854775807, 0]

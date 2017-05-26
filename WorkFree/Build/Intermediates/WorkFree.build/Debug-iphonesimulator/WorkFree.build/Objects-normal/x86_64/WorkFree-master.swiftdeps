@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "36d3fd1b265b8c7c3e39003ca16894e5"
+build_time: [549081266, 668202000]
+inputs:
+  "/Users/doki/git/WorkFree/WorkFree/WorkFree/ViewController.swift": [549081261, 0]
+  "/Users/doki/git/WorkFree/WorkFree/WorkFree/AppDelegate.swift": [544177209, 0]

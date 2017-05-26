@@ -1,0 +1,779 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AppDelegate"
+provides-nominal:
+- "C10PushGDrive11AppDelegate"
+provides-member:
+- ["C10PushGDrive11AppDelegate", ""]
+provides-dynamic-lookup:
+- "application"
+- "application"
+- "application"
+- "applicationDidEnterBackground"
+- "applicationWillEnterForeground"
+- "ud"
+- "applicationDidBecomeActive"
+- "window"
+- "url"
+- "applicationWillTerminate"
+- "currentAuthorizationFlow"
+- "applicationWillResignActive"
+depends-top-level:
+- !private "UNUserNotificationCenter"
+- "OIDAuthorizationFlowSession"
+- "UILocalNotification"
+- !private "debugPrint"
+- !private "!="
+- "AppDelegate"
+- "UIApplicationLaunchOptionsKey"
+- "UserDefaults"
+- "UIResponder"
+- "AssignmentPrecedence"
+- "Dictionary"
+- "StringLiteralType"
+- !private "DispatchQueue"
+- "UIApplicationDelegate"
+- "UIApplicationOpenURLOptionsKey"
+- !private "Array"
+- "UIWindow"
+- "Bool"
+- "UIApplication"
+- !private "BooleanLiteralType"
+- "URL"
+- !private "UIUserNotificationSettings"
+depends-member:
+- !private ["Ps9AnyObject", "DispatchQueue"]
+- !private ["Ps9AnyObject", "UIApplication"]
+- !private ["Ps9AnyObject", "UIUserNotificationSettings"]
+- !private ["Ps9AnyObject", "UNUserNotificationCenter"]
+- ["Ps9AnyObject", "URL"]
+- ["Ps9AnyObject", "UserDefaults"]
+- ["Ps9AnyObject", "application"]
+- ["Ps9AnyObject", "applicationDidBecomeActive"]
+- ["Ps9AnyObject", "applicationDidEnterBackground"]
+- ["Ps9AnyObject", "applicationDidFinishLaunching"]
+- ["Ps9AnyObject", "applicationDidReceiveMemoryWarning"]
+- ["Ps9AnyObject", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps9AnyObject", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps9AnyObject", "applicationShouldRequestHealthAuthorization"]
+- ["Ps9AnyObject", "applicationSignificantTimeChange"]
+- ["Ps9AnyObject", "applicationWillEnterForeground"]
+- ["Ps9AnyObject", "applicationWillResignActive"]
+- ["Ps9AnyObject", "applicationWillTerminate"]
+- !private ["Ps9AnyObject", "async"]
+- !private ["Ps9AnyObject", "canOpenURL"]
+- !private ["Ps9AnyObject", "current"]
+- ["Ps9AnyObject", "currentAuthorizationFlow"]
+- !private ["Ps9AnyObject", "debugPrint"]
+- !private ["Ps9AnyObject", "global"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "openURL"]
+- !private ["Ps9AnyObject", "registerUserNotificationSettings"]
+- !private ["Ps9AnyObject", "requestAuthorization"]
+- !private ["Ps9AnyObject", "shared"]
+- ["Ps9AnyObject", "standard"]
+- !private ["Ps9AnyObject", "string"]
+- ["Ps9AnyObject", "ud"]
+- ["Ps9AnyObject", "url"]
+- ["Ps9AnyObject", "window"]
+- ["Ps9AnyObject", ""]
+- ["C10PushGDrive11AppDelegate", "Bool"]
+- !private ["C10PushGDrive11AppDelegate", "DispatchQueue"]
+- ["C10PushGDrive11AppDelegate", "OIDAuthorizationFlowSession"]
+- ["C10PushGDrive11AppDelegate", "UIApplication"]
+- ["C10PushGDrive11AppDelegate", "UIApplicationLaunchOptionsKey"]
+- ["C10PushGDrive11AppDelegate", "UIApplicationOpenURLOptionsKey"]
+- ["C10PushGDrive11AppDelegate", "UILocalNotification"]
+- !private ["C10PushGDrive11AppDelegate", "UIUserNotificationSettings"]
+- ["C10PushGDrive11AppDelegate", "UIWindow"]
+- !private ["C10PushGDrive11AppDelegate", "UNUserNotificationCenter"]
+- ["C10PushGDrive11AppDelegate", "URL"]
+- ["C10PushGDrive11AppDelegate", "UserDefaults"]
+- ["C10PushGDrive11AppDelegate", "application"]
+- ["C10PushGDrive11AppDelegate", "applicationDidBecomeActive"]
+- ["C10PushGDrive11AppDelegate", "applicationDidEnterBackground"]
+- ["C10PushGDrive11AppDelegate", "applicationDidFinishLaunching"]
+- ["C10PushGDrive11AppDelegate", "applicationDidReceiveMemoryWarning"]
+- ["C10PushGDrive11AppDelegate", "applicationProtectedDataDidBecomeAvailable"]
+- ["C10PushGDrive11AppDelegate", "applicationProtectedDataWillBecomeUnavailable"]
+- ["C10PushGDrive11AppDelegate", "applicationShouldRequestHealthAuthorization"]
+- ["C10PushGDrive11AppDelegate", "applicationSignificantTimeChange"]
+- ["C10PushGDrive11AppDelegate", "applicationWillEnterForeground"]
+- ["C10PushGDrive11AppDelegate", "applicationWillResignActive"]
+- ["C10PushGDrive11AppDelegate", "applicationWillTerminate"]
+- ["C10PushGDrive11AppDelegate", "currentAuthorizationFlow"]
+- !private ["C10PushGDrive11AppDelegate", "debugPrint"]
+- ["C10PushGDrive11AppDelegate", "deinit"]
+- ["C10PushGDrive11AppDelegate", "init"]
+- ["C10PushGDrive11AppDelegate", "ud"]
+- ["C10PushGDrive11AppDelegate", "url"]
+- ["C10PushGDrive11AppDelegate", "window"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["Ps7CVarArg", "DispatchQueue"]
+- !private ["Ps7CVarArg", "Key"]
+- !private ["Ps7CVarArg", "UIApplication"]
+- !private ["Ps7CVarArg", "UIUserNotificationSettings"]
+- !private ["Ps7CVarArg", "UNUserNotificationCenter"]
+- ["Ps7CVarArg", "URL"]
+- ["Ps7CVarArg", "UserDefaults"]
+- !private ["Ps7CVarArg", "Value"]
+- ["Ps7CVarArg", "application"]
+- ["Ps7CVarArg", "applicationDidBecomeActive"]
+- ["Ps7CVarArg", "applicationDidEnterBackground"]
+- ["Ps7CVarArg", "applicationDidFinishLaunching"]
+- ["Ps7CVarArg", "applicationDidReceiveMemoryWarning"]
+- ["Ps7CVarArg", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps7CVarArg", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps7CVarArg", "applicationShouldRequestHealthAuthorization"]
+- ["Ps7CVarArg", "applicationSignificantTimeChange"]
+- ["Ps7CVarArg", "applicationWillEnterForeground"]
+- ["Ps7CVarArg", "applicationWillResignActive"]
+- ["Ps7CVarArg", "applicationWillTerminate"]
+- !private ["Ps7CVarArg", "async"]
+- !private ["Ps7CVarArg", "canOpenURL"]
+- !private ["Ps7CVarArg", "current"]
+- ["Ps7CVarArg", "currentAuthorizationFlow"]
+- !private ["Ps7CVarArg", "debugPrint"]
+- !private ["Ps7CVarArg", "global"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "openURL"]
+- !private ["Ps7CVarArg", "registerUserNotificationSettings"]
+- !private ["Ps7CVarArg", "requestAuthorization"]
+- !private ["Ps7CVarArg", "shared"]
+- ["Ps7CVarArg", "standard"]
+- !private ["Ps7CVarArg", "string"]
+- ["Ps7CVarArg", "ud"]
+- ["Ps7CVarArg", "url"]
+- ["Ps7CVarArg", "window"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Collection", "Key"]
+- !private ["Ps10Collection", "Value"]
+- ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "DispatchQueue"]
+- !private ["Ps28CustomDebugStringConvertible", "Key"]
+- !private ["Ps28CustomDebugStringConvertible", "UIApplication"]
+- !private ["Ps28CustomDebugStringConvertible", "UIUserNotificationSettings"]
+- !private ["Ps28CustomDebugStringConvertible", "UNUserNotificationCenter"]
+- ["Ps28CustomDebugStringConvertible", "URL"]
+- ["Ps28CustomDebugStringConvertible", "UserDefaults"]
+- !private ["Ps28CustomDebugStringConvertible", "Value"]
+- ["Ps28CustomDebugStringConvertible", "application"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidBecomeActive"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidEnterBackground"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidFinishLaunching"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidReceiveMemoryWarning"]
+- ["Ps28CustomDebugStringConvertible", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps28CustomDebugStringConvertible", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps28CustomDebugStringConvertible", "applicationShouldRequestHealthAuthorization"]
+- ["Ps28CustomDebugStringConvertible", "applicationSignificantTimeChange"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillEnterForeground"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillResignActive"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillTerminate"]
+- !private ["Ps28CustomDebugStringConvertible", "async"]
+- !private ["Ps28CustomDebugStringConvertible", "canOpenURL"]
+- !private ["Ps28CustomDebugStringConvertible", "current"]
+- ["Ps28CustomDebugStringConvertible", "currentAuthorizationFlow"]
+- !private ["Ps28CustomDebugStringConvertible", "debugPrint"]
+- !private ["Ps28CustomDebugStringConvertible", "global"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "openURL"]
+- !private ["Ps28CustomDebugStringConvertible", "registerUserNotificationSettings"]
+- !private ["Ps28CustomDebugStringConvertible", "requestAuthorization"]
+- !private ["Ps28CustomDebugStringConvertible", "shared"]
+- ["Ps28CustomDebugStringConvertible", "standard"]
+- !private ["Ps28CustomDebugStringConvertible", "string"]
+- ["Ps28CustomDebugStringConvertible", "ud"]
+- ["Ps28CustomDebugStringConvertible", "url"]
+- ["Ps28CustomDebugStringConvertible", "window"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "Key"]
+- !private ["Ps17CustomReflectable", "Value"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "DispatchQueue"]
+- !private ["Ps23CustomStringConvertible", "Key"]
+- !private ["Ps23CustomStringConvertible", "UIApplication"]
+- !private ["Ps23CustomStringConvertible", "UIUserNotificationSettings"]
+- !private ["Ps23CustomStringConvertible", "UNUserNotificationCenter"]
+- ["Ps23CustomStringConvertible", "URL"]
+- ["Ps23CustomStringConvertible", "UserDefaults"]
+- !private ["Ps23CustomStringConvertible", "Value"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "application"]
+- ["Ps23CustomStringConvertible", "applicationDidBecomeActive"]
+- ["Ps23CustomStringConvertible", "applicationDidEnterBackground"]
+- ["Ps23CustomStringConvertible", "applicationDidFinishLaunching"]
+- ["Ps23CustomStringConvertible", "applicationDidReceiveMemoryWarning"]
+- ["Ps23CustomStringConvertible", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps23CustomStringConvertible", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps23CustomStringConvertible", "applicationShouldRequestHealthAuthorization"]
+- ["Ps23CustomStringConvertible", "applicationSignificantTimeChange"]
+- ["Ps23CustomStringConvertible", "applicationWillEnterForeground"]
+- ["Ps23CustomStringConvertible", "applicationWillResignActive"]
+- ["Ps23CustomStringConvertible", "applicationWillTerminate"]
+- !private ["Ps23CustomStringConvertible", "async"]
+- !private ["Ps23CustomStringConvertible", "canOpenURL"]
+- !private ["Ps23CustomStringConvertible", "current"]
+- ["Ps23CustomStringConvertible", "currentAuthorizationFlow"]
+- !private ["Ps23CustomStringConvertible", "debugPrint"]
+- !private ["Ps23CustomStringConvertible", "global"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "openURL"]
+- !private ["Ps23CustomStringConvertible", "registerUserNotificationSettings"]
+- !private ["Ps23CustomStringConvertible", "requestAuthorization"]
+- !private ["Ps23CustomStringConvertible", "shared"]
+- ["Ps23CustomStringConvertible", "standard"]
+- !private ["Ps23CustomStringConvertible", "string"]
+- ["Ps23CustomStringConvertible", "ud"]
+- ["Ps23CustomStringConvertible", "url"]
+- ["Ps23CustomStringConvertible", "window"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Vs10Dictionary", "Key"]
+- !private ["Vs10Dictionary", "Value"]
+- !private ["Vs10Dictionary", "deinit"]
+- !private ["CSo14DispatchObject", "async"]
+- !private ["CSo14DispatchObject", "global"]
+- !private ["CSo13DispatchQueue", "async"]
+- ["CSo13DispatchQueue", "deinit"]
+- !private ["CSo13DispatchQueue", "global"]
+- !private ["Ps9Equatable", "DispatchQueue"]
+- !private ["Ps9Equatable", "Element"]
+- !private ["Ps9Equatable", "UIApplication"]
+- !private ["Ps9Equatable", "UIUserNotificationSettings"]
+- !private ["Ps9Equatable", "UNUserNotificationCenter"]
+- ["Ps9Equatable", "URL"]
+- ["Ps9Equatable", "UserDefaults"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "alert"]
+- ["Ps9Equatable", "application"]
+- ["Ps9Equatable", "applicationDidBecomeActive"]
+- ["Ps9Equatable", "applicationDidEnterBackground"]
+- ["Ps9Equatable", "applicationDidFinishLaunching"]
+- ["Ps9Equatable", "applicationDidReceiveMemoryWarning"]
+- ["Ps9Equatable", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps9Equatable", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps9Equatable", "applicationShouldRequestHealthAuthorization"]
+- ["Ps9Equatable", "applicationSignificantTimeChange"]
+- ["Ps9Equatable", "applicationWillEnterForeground"]
+- ["Ps9Equatable", "applicationWillResignActive"]
+- ["Ps9Equatable", "applicationWillTerminate"]
+- !private ["Ps9Equatable", "async"]
+- !private ["Ps9Equatable", "badge"]
+- !private ["Ps9Equatable", "canOpenURL"]
+- !private ["Ps9Equatable", "current"]
+- ["Ps9Equatable", "currentAuthorizationFlow"]
+- !private ["Ps9Equatable", "debugPrint"]
+- !private ["Ps9Equatable", "default"]
+- !private ["Ps9Equatable", "global"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "openURL"]
+- !private ["Ps9Equatable", "registerUserNotificationSettings"]
+- !private ["Ps9Equatable", "requestAuthorization"]
+- !private ["Ps9Equatable", "shared"]
+- !private ["Ps9Equatable", "sound"]
+- ["Ps9Equatable", "standard"]
+- !private ["Ps9Equatable", "string"]
+- ["Ps9Equatable", "ud"]
+- ["Ps9Equatable", "url"]
+- ["Ps9Equatable", "window"]
+- ["Ps9Equatable", ""]
+- !private ["Ps5Error", "deinit"]
+- !private ["Ps25ExpressibleByArrayLiteral", "Element"]
+- !private ["Ps25ExpressibleByArrayLiteral", "alert"]
+- !private ["Ps25ExpressibleByArrayLiteral", "badge"]
+- !private ["Ps25ExpressibleByArrayLiteral", "sound"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "Key"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "Value"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps32ExpressibleByStringInterpolation", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "DispatchQueue"]
+- !private ["Ps8Hashable", "UIApplication"]
+- !private ["Ps8Hashable", "UIUserNotificationSettings"]
+- !private ["Ps8Hashable", "UNUserNotificationCenter"]
+- ["Ps8Hashable", "URL"]
+- ["Ps8Hashable", "UserDefaults"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "application"]
+- ["Ps8Hashable", "applicationDidBecomeActive"]
+- ["Ps8Hashable", "applicationDidEnterBackground"]
+- ["Ps8Hashable", "applicationDidFinishLaunching"]
+- ["Ps8Hashable", "applicationDidReceiveMemoryWarning"]
+- ["Ps8Hashable", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps8Hashable", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps8Hashable", "applicationShouldRequestHealthAuthorization"]
+- ["Ps8Hashable", "applicationSignificantTimeChange"]
+- ["Ps8Hashable", "applicationWillEnterForeground"]
+- ["Ps8Hashable", "applicationWillResignActive"]
+- ["Ps8Hashable", "applicationWillTerminate"]
+- !private ["Ps8Hashable", "async"]
+- !private ["Ps8Hashable", "canOpenURL"]
+- !private ["Ps8Hashable", "current"]
+- ["Ps8Hashable", "currentAuthorizationFlow"]
+- !private ["Ps8Hashable", "debugPrint"]
+- !private ["Ps8Hashable", "default"]
+- !private ["Ps8Hashable", "global"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "openURL"]
+- !private ["Ps8Hashable", "registerUserNotificationSettings"]
+- !private ["Ps8Hashable", "requestAuthorization"]
+- !private ["Ps8Hashable", "shared"]
+- ["Ps8Hashable", "standard"]
+- !private ["Ps8Hashable", "string"]
+- ["Ps8Hashable", "ud"]
+- ["Ps8Hashable", "url"]
+- ["Ps8Hashable", "window"]
+- ["Ps8Hashable", ""]
+- !private ["Ps9Indexable", "Key"]
+- !private ["Ps9Indexable", "Value"]
+- !private ["Ps13IndexableBase", "Key"]
+- !private ["Ps13IndexableBase", "Value"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- ["PSo8NSCoding", "init"]
+- ["PSo9NSCopying", "init"]
+- ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "DispatchQueue"]
+- ["CSo8NSObject", "OIDAuthorizationFlowSession"]
+- ["CSo8NSObject", "UIApplication"]
+- ["CSo8NSObject", "UIApplicationLaunchOptionsKey"]
+- ["CSo8NSObject", "UIApplicationOpenURLOptionsKey"]
+- ["CSo8NSObject", "UILocalNotification"]
+- !private ["CSo8NSObject", "UIUserNotificationSettings"]
+- ["CSo8NSObject", "UIWindow"]
+- !private ["CSo8NSObject", "UNUserNotificationCenter"]
+- ["CSo8NSObject", "URL"]
+- ["CSo8NSObject", "UserDefaults"]
+- ["CSo8NSObject", "application"]
+- ["CSo8NSObject", "applicationDidBecomeActive"]
+- ["CSo8NSObject", "applicationDidEnterBackground"]
+- ["CSo8NSObject", "applicationDidFinishLaunching"]
+- ["CSo8NSObject", "applicationDidReceiveMemoryWarning"]
+- ["CSo8NSObject", "applicationProtectedDataDidBecomeAvailable"]
+- ["CSo8NSObject", "applicationProtectedDataWillBecomeUnavailable"]
+- ["CSo8NSObject", "applicationShouldRequestHealthAuthorization"]
+- ["CSo8NSObject", "applicationSignificantTimeChange"]
+- ["CSo8NSObject", "applicationWillEnterForeground"]
+- ["CSo8NSObject", "applicationWillResignActive"]
+- ["CSo8NSObject", "applicationWillTerminate"]
+- !private ["CSo8NSObject", "async"]
+- !private ["CSo8NSObject", "canOpenURL"]
+- !private ["CSo8NSObject", "current"]
+- ["CSo8NSObject", "currentAuthorizationFlow"]
+- !private ["CSo8NSObject", "debugPrint"]
+- !private ["CSo8NSObject", "global"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "openURL"]
+- !private ["CSo8NSObject", "registerUserNotificationSettings"]
+- !private ["CSo8NSObject", "requestAuthorization"]
+- !private ["CSo8NSObject", "shared"]
+- ["CSo8NSObject", "standard"]
+- !private ["CSo8NSObject", "string"]
+- ["CSo8NSObject", "ud"]
+- ["CSo8NSObject", "url"]
+- ["CSo8NSObject", "window"]
+- !private ["PSo16NSObjectProtocol", "DispatchQueue"]
+- !private ["PSo16NSObjectProtocol", "UIApplication"]
+- !private ["PSo16NSObjectProtocol", "UIUserNotificationSettings"]
+- !private ["PSo16NSObjectProtocol", "UNUserNotificationCenter"]
+- ["PSo16NSObjectProtocol", "URL"]
+- ["PSo16NSObjectProtocol", "UserDefaults"]
+- ["PSo16NSObjectProtocol", "application"]
+- ["PSo16NSObjectProtocol", "applicationDidBecomeActive"]
+- ["PSo16NSObjectProtocol", "applicationDidEnterBackground"]
+- ["PSo16NSObjectProtocol", "applicationDidFinishLaunching"]
+- ["PSo16NSObjectProtocol", "applicationDidReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo16NSObjectProtocol", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo16NSObjectProtocol", "applicationShouldRequestHealthAuthorization"]
+- ["PSo16NSObjectProtocol", "applicationSignificantTimeChange"]
+- ["PSo16NSObjectProtocol", "applicationWillEnterForeground"]
+- ["PSo16NSObjectProtocol", "applicationWillResignActive"]
+- ["PSo16NSObjectProtocol", "applicationWillTerminate"]
+- !private ["PSo16NSObjectProtocol", "async"]
+- !private ["PSo16NSObjectProtocol", "canOpenURL"]
+- !private ["PSo16NSObjectProtocol", "current"]
+- ["PSo16NSObjectProtocol", "currentAuthorizationFlow"]
+- !private ["PSo16NSObjectProtocol", "debugPrint"]
+- !private ["PSo16NSObjectProtocol", "global"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "openURL"]
+- !private ["PSo16NSObjectProtocol", "registerUserNotificationSettings"]
+- !private ["PSo16NSObjectProtocol", "requestAuthorization"]
+- !private ["PSo16NSObjectProtocol", "resumeAuthorizationFlow"]
+- !private ["PSo16NSObjectProtocol", "shared"]
+- ["PSo16NSObjectProtocol", "standard"]
+- !private ["PSo16NSObjectProtocol", "string"]
+- ["PSo16NSObjectProtocol", "ud"]
+- ["PSo16NSObjectProtocol", "url"]
+- ["PSo16NSObjectProtocol", "window"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- !private ["PSo27OIDAuthorizationFlowSession", "resumeAuthorizationFlow"]
+- !private ["CSo9OS_object", "async"]
+- !private ["CSo9OS_object", "global"]
+- !private ["Ps9OptionSet", "Element"]
+- !private ["Ps9OptionSet", "alert"]
+- !private ["Ps9OptionSet", "badge"]
+- !private ["Ps9OptionSet", "sound"]
+- ["Sq", "deinit"]
+- !private ["OV8Dispatch11DispatchQoS8QoSClass", "default"]
+- ["OV8Dispatch11DispatchQoS8QoSClass", "deinit"]
+- !private ["Ps16RawRepresentable", "Element"]
+- !private ["Ps16RawRepresentable", "alert"]
+- !private ["Ps16RawRepresentable", "badge"]
+- !private ["Ps16RawRepresentable", "sound"]
+- ["P10Foundation20ReferenceConvertible", "init"]
+- !private ["Ps8Sequence", "Key"]
+- !private ["Ps8Sequence", "Value"]
+- !private ["Ps10SetAlgebra", "Element"]
+- !private ["Ps10SetAlgebra", "alert"]
+- !private ["Ps10SetAlgebra", "badge"]
+- !private ["Ps10SetAlgebra", "sound"]
+- ["SS", "deinit"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- !private ["CSo13UIApplication", "canOpenURL"]
+- ["CSo13UIApplication", "deinit"]
+- !private ["CSo13UIApplication", "openURL"]
+- !private ["CSo13UIApplication", "registerUserNotificationSettings"]
+- !private ["CSo13UIApplication", "shared"]
+- !private ["PSo21UIApplicationDelegate", "DispatchQueue"]
+- !private ["PSo21UIApplicationDelegate", "UIApplication"]
+- !private ["PSo21UIApplicationDelegate", "UIUserNotificationSettings"]
+- !private ["PSo21UIApplicationDelegate", "UNUserNotificationCenter"]
+- ["PSo21UIApplicationDelegate", "URL"]
+- ["PSo21UIApplicationDelegate", "UserDefaults"]
+- ["PSo21UIApplicationDelegate", "application"]
+- ["PSo21UIApplicationDelegate", "applicationDidBecomeActive"]
+- ["PSo21UIApplicationDelegate", "applicationDidEnterBackground"]
+- ["PSo21UIApplicationDelegate", "applicationDidFinishLaunching"]
+- ["PSo21UIApplicationDelegate", "applicationDidReceiveMemoryWarning"]
+- ["PSo21UIApplicationDelegate", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo21UIApplicationDelegate", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo21UIApplicationDelegate", "applicationShouldRequestHealthAuthorization"]
+- ["PSo21UIApplicationDelegate", "applicationSignificantTimeChange"]
+- ["PSo21UIApplicationDelegate", "applicationWillEnterForeground"]
+- ["PSo21UIApplicationDelegate", "applicationWillResignActive"]
+- ["PSo21UIApplicationDelegate", "applicationWillTerminate"]
+- !private ["PSo21UIApplicationDelegate", "currentAuthorizationFlow"]
+- !private ["PSo21UIApplicationDelegate", "debugPrint"]
+- !private ["PSo21UIApplicationDelegate", "ud"]
+- !private ["PSo21UIApplicationDelegate", "url"]
+- ["PSo21UIApplicationDelegate", "window"]
+- ["PSo21UIApplicationDelegate", ""]
+- ["CSo11UIResponder", "Bool"]
+- !private ["CSo11UIResponder", "DispatchQueue"]
+- ["CSo11UIResponder", "OIDAuthorizationFlowSession"]
+- ["CSo11UIResponder", "UIApplication"]
+- ["CSo11UIResponder", "UIApplicationLaunchOptionsKey"]
+- ["CSo11UIResponder", "UIApplicationOpenURLOptionsKey"]
+- ["CSo11UIResponder", "UILocalNotification"]
+- !private ["CSo11UIResponder", "UIUserNotificationSettings"]
+- ["CSo11UIResponder", "UIWindow"]
+- !private ["CSo11UIResponder", "UNUserNotificationCenter"]
+- ["CSo11UIResponder", "URL"]
+- ["CSo11UIResponder", "UserDefaults"]
+- ["CSo11UIResponder", "application"]
+- ["CSo11UIResponder", "applicationDidBecomeActive"]
+- ["CSo11UIResponder", "applicationDidEnterBackground"]
+- ["CSo11UIResponder", "applicationDidFinishLaunching"]
+- ["CSo11UIResponder", "applicationDidReceiveMemoryWarning"]
+- ["CSo11UIResponder", "applicationProtectedDataDidBecomeAvailable"]
+- ["CSo11UIResponder", "applicationProtectedDataWillBecomeUnavailable"]
+- ["CSo11UIResponder", "applicationShouldRequestHealthAuthorization"]
+- ["CSo11UIResponder", "applicationSignificantTimeChange"]
+- ["CSo11UIResponder", "applicationWillEnterForeground"]
+- ["CSo11UIResponder", "applicationWillResignActive"]
+- ["CSo11UIResponder", "applicationWillTerminate"]
+- !private ["CSo11UIResponder", "canOpenURL"]
+- ["CSo11UIResponder", "currentAuthorizationFlow"]
+- !private ["CSo11UIResponder", "debugPrint"]
+- ["CSo11UIResponder", "deinit"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "openURL"]
+- !private ["CSo11UIResponder", "registerUserNotificationSettings"]
+- !private ["CSo11UIResponder", "shared"]
+- ["CSo11UIResponder", "ud"]
+- ["CSo11UIResponder", "url"]
+- ["CSo11UIResponder", "window"]
+- ["CSo11UIResponder", ""]
+- !private ["PSo30UIResponderStandardEditActions", "DispatchQueue"]
+- !private ["PSo30UIResponderStandardEditActions", "UIApplication"]
+- !private ["PSo30UIResponderStandardEditActions", "UIUserNotificationSettings"]
+- !private ["PSo30UIResponderStandardEditActions", "UNUserNotificationCenter"]
+- ["PSo30UIResponderStandardEditActions", "URL"]
+- ["PSo30UIResponderStandardEditActions", "UserDefaults"]
+- ["PSo30UIResponderStandardEditActions", "application"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidBecomeActive"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidEnterBackground"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidFinishLaunching"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidReceiveMemoryWarning"]
+- ["PSo30UIResponderStandardEditActions", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo30UIResponderStandardEditActions", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo30UIResponderStandardEditActions", "applicationShouldRequestHealthAuthorization"]
+- ["PSo30UIResponderStandardEditActions", "applicationSignificantTimeChange"]
+- ["PSo30UIResponderStandardEditActions", "applicationWillEnterForeground"]
+- ["PSo30UIResponderStandardEditActions", "applicationWillResignActive"]
+- ["PSo30UIResponderStandardEditActions", "applicationWillTerminate"]
+- !private ["PSo30UIResponderStandardEditActions", "canOpenURL"]
+- ["PSo30UIResponderStandardEditActions", "currentAuthorizationFlow"]
+- !private ["PSo30UIResponderStandardEditActions", "debugPrint"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "openURL"]
+- !private ["PSo30UIResponderStandardEditActions", "registerUserNotificationSettings"]
+- !private ["PSo30UIResponderStandardEditActions", "shared"]
+- ["PSo30UIResponderStandardEditActions", "ud"]
+- ["PSo30UIResponderStandardEditActions", "url"]
+- ["PSo30UIResponderStandardEditActions", "window"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["CSo26UIUserNotificationSettings", "deinit"]
+- !private ["CSo26UIUserNotificationSettings", "init"]
+- !private ["VSC22UIUserNotificationType", "Element"]
+- !private ["VSC22UIUserNotificationType", "alert"]
+- !private ["VSC22UIUserNotificationType", "badge"]
+- ["VSC22UIUserNotificationType", "deinit"]
+- !private ["VSC22UIUserNotificationType", "sound"]
+- !private ["VSC22UNAuthorizationOptions", "Element"]
+- !private ["VSC22UNAuthorizationOptions", "alert"]
+- !private ["VSC22UNAuthorizationOptions", "badge"]
+- ["VSC22UNAuthorizationOptions", "deinit"]
+- !private ["VSC22UNAuthorizationOptions", "sound"]
+- !private ["CSo24UNUserNotificationCenter", "current"]
+- ["CSo24UNUserNotificationCenter", "deinit"]
+- !private ["CSo24UNUserNotificationCenter", "requestAuthorization"]
+- ["V10Foundation3URL", "deinit"]
+- ["V10Foundation3URL", "init"]
+- ["CSo12UserDefaults", "deinit"]
+- ["CSo12UserDefaults", "standard"]
+- !private ["CSo12UserDefaults", "string"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps34_ExpressibleByFileReferenceLiteral", "init"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "DispatchQueue"]
+- !private ["Ps9_Hashable", "UIApplication"]
+- !private ["Ps9_Hashable", "UIUserNotificationSettings"]
+- !private ["Ps9_Hashable", "UNUserNotificationCenter"]
+- ["Ps9_Hashable", "URL"]
+- ["Ps9_Hashable", "UserDefaults"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- ["Ps9_Hashable", "application"]
+- ["Ps9_Hashable", "applicationDidBecomeActive"]
+- ["Ps9_Hashable", "applicationDidEnterBackground"]
+- ["Ps9_Hashable", "applicationDidFinishLaunching"]
+- ["Ps9_Hashable", "applicationDidReceiveMemoryWarning"]
+- ["Ps9_Hashable", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps9_Hashable", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps9_Hashable", "applicationShouldRequestHealthAuthorization"]
+- ["Ps9_Hashable", "applicationSignificantTimeChange"]
+- ["Ps9_Hashable", "applicationWillEnterForeground"]
+- ["Ps9_Hashable", "applicationWillResignActive"]
+- ["Ps9_Hashable", "applicationWillTerminate"]
+- !private ["Ps9_Hashable", "async"]
+- !private ["Ps9_Hashable", "canOpenURL"]
+- !private ["Ps9_Hashable", "current"]
+- ["Ps9_Hashable", "currentAuthorizationFlow"]
+- !private ["Ps9_Hashable", "debugPrint"]
+- !private ["Ps9_Hashable", "default"]
+- !private ["Ps9_Hashable", "global"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "openURL"]
+- !private ["Ps9_Hashable", "registerUserNotificationSettings"]
+- !private ["Ps9_Hashable", "requestAuthorization"]
+- !private ["Ps9_Hashable", "shared"]
+- ["Ps9_Hashable", "standard"]
+- !private ["Ps9_Hashable", "string"]
+- ["Ps9_Hashable", "ud"]
+- ["Ps9_Hashable", "url"]
+- ["Ps9_Hashable", "window"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "Key"]
+- !private ["Ps21_ObjectiveCBridgeable", "Value"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Vs26_OptionalNilComparisonType", "deinit"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C10PushGDrive11AppDelegate"
+- "Sb"
+- "Ps7CVarArg"
+- !private "Ps10Collection"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "Vs10Dictionary"
+- !private "CSo14DispatchObject"
+- "CSo13DispatchQueue"
+- "Ps9Equatable"
+- !private "Ps5Error"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps32ExpressibleByStringInterpolation"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- !private "PSo27OIDAuthorizationFlowSession"
+- !private "CSo9OS_object"
+- !private "Ps9OptionSet"
+- "Sq"
+- "OV8Dispatch11DispatchQoS8QoSClass"
+- !private "Ps16RawRepresentable"
+- "P10Foundation20ReferenceConvertible"
+- !private "Ps8Sequence"
+- !private "Ps10SetAlgebra"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- "CSo13UIApplication"
+- "PSo21UIApplicationDelegate"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "CSo26UIUserNotificationSettings"
+- "VSC22UIUserNotificationType"
+- "VSC22UNAuthorizationOptions"
+- "CSo24UNUserNotificationCenter"
+- "V10Foundation3URL"
+- "CSo12UserDefaults"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps34_ExpressibleByFileReferenceLiteral"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- "Ps21_ObjectiveCBridgeable"
+- !private "Vs26_OptionalNilComparisonType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMReadMonitorInputStream.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMMIMEDocument.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMGatherInputStream.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionUploadFetcher.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcherService.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcherLogging.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-umbrella.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Modules/module.modulemap"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLTargetNamespace.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLBase64.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLRuntimeCommon.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLJSONParser.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLFramework.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLErrorObject.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLBatchResult.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLBatchQuery.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLService.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLServiceCalendar.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLUploadParameters.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLQuery.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLQueryCalendar.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarTimePeriod.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarSettings.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarSetting.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarNotification.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarFreeBusyResponse.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarFreeBusyRequestItem.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarFreeBusyGroup.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarFreeBusyCalendar.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarEvents.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarEventReminder.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarEventDateTime.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarEventAttendee.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarEventAttachment.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarEvent.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarError.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarColors.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarColorDefinition.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarChannel.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarCalendarListEntry.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarCalendarList.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarCalendar.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarAclRule.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLDateTime.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLUtilities.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLObject.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarAcl.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLDefines.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendarConstants.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GTLCalendar.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Headers/GoogleAPIClient-umbrella.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GoogleAPIClient/GoogleAPIClient.framework/Modules/module.modulemap"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDAuthorizationUICoordinatorIOS.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDURLQueryComponent.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDTokenUtilities.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDScopeUtilities.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDFieldMapping.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDDefines.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDAuthorizationUICoordinator.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDAuthorizationService+IOS.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDAuthState+IOS.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDTokenResponse.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDTokenRequest.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDServiceDiscovery.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDServiceConfiguration.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDGrantTypes.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDErrorUtilities.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDError.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDAuthorizationService.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDAuthorizationResponse.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDScopes.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDResponseTypes.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDAuthorizationRequest.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDAuthStateErrorDelegate.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDAuthStateChangeDelegate.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/OIDAuthState.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/AppAuth.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Headers/AppAuth-umbrella.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/AppAuth/AppAuth.framework/Modules/module.modulemap"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMAppAuth/GTMAppAuth.framework/Headers/GTMKeychain.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMAppAuth/GTMAppAuth.framework/Headers/GTMOAuth2KeychainCompatibility.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMAppAuth/GTMAppAuth.framework/Headers/GTMAppAuthFetcherAuthorization+Keychain.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMAppAuth/GTMAppAuth.framework/Headers/GTMAppAuthFetcherAuthorization.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMAppAuth/GTMAppAuth.framework/Headers/GTMAppAuth.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMAppAuth/GTMAppAuth.framework/Headers/GTMAppAuth-umbrella.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/GTMAppAuth/GTMAppAuth.framework/Modules/module.modulemap"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/JWTDecode/JWTDecode.framework/Modules/JWTDecode.swiftmodule/x86_64.swiftmodule"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/JWTDecode/JWTDecode.framework/Headers/JWTDecode-Swift.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/JWTDecode/JWTDecode.framework/Headers/JWTDecode-umbrella.h"
+- "/Users/doki/git/PushGDrive/PushGDrive/Build/Products/Debug-iphonesimulator/JWTDecode/JWTDecode.framework/Modules/module.modulemap"
+interface-hash: "b9c2ffc3f1c7ba29193a7e7c433e9cb5"

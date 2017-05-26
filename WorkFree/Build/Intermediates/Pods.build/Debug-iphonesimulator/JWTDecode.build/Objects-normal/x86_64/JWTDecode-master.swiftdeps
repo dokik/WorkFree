@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "d5337fc6758023d1e24c8714d50f38ee"
+build_time: [549081202, 29376000]
+inputs:
+  "/Users/doki/git/WorkFree/WorkFree/Pods/JWTDecode/JWTDecode/A0JWT.swift": [544176165, 0]
+  "/Users/doki/git/WorkFree/WorkFree/Pods/JWTDecode/JWTDecode/Errors.swift": [544176165, 0]
+  "/Users/doki/git/WorkFree/WorkFree/Pods/JWTDecode/JWTDecode/JWT.swift": [544176165, 0]
+  "/Users/doki/git/WorkFree/WorkFree/Pods/JWTDecode/JWTDecode/JWTDecode.swift": [544176165, 0]

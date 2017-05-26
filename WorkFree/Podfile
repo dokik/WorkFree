@@ -1,0 +1,12 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+# Uncomment this line if you're using Swift
+use_frameworks!
+
+target ‘WorkFree’ do
+    pod 'GoogleAPIClient/Core', '~> 1.0.2'
+    pod 'GoogleAPIClient/Calendar', '~> 1.0.2'
+    pod 'GTMAppAuth'
+    pod 'JWTDecode'
+end
+

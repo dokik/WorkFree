@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "cc817b5988d565eb4f7ab29f6214f235"
+build_time: [545364034, 176144000]
+inputs:
+  "/Users/doki/git/PushGDrive/PushGDrive/Pods/JWTDecode/JWTDecode/A0JWT.swift": [9223372036854775807, 0]
+  "/Users/doki/git/PushGDrive/PushGDrive/Pods/JWTDecode/JWTDecode/Errors.swift": [9223372036854775807, 0]
+  "/Users/doki/git/PushGDrive/PushGDrive/Pods/JWTDecode/JWTDecode/JWT.swift": [9223372036854775807, 0]
+  "/Users/doki/git/PushGDrive/PushGDrive/Pods/JWTDecode/JWTDecode/JWTDecode.swift": [9223372036854775807, 0]
